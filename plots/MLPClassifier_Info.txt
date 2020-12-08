@@ -1,0 +1,13 @@
+Best Parameters:
+{'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (5,), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+
+MLPClassifier Metrics:
+              precision    recall  f1-score   support
+
+           0       0.96      0.97      0.97     75442
+           1       0.64      0.59      0.61      6803
+
+    accuracy                           0.94     82245
+   macro avg       0.80      0.78      0.79     82245
+weighted avg       0.94      0.94      0.94     82245
+
